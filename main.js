@@ -32,7 +32,7 @@ function firstQuestion() {
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'img/logi.gif',
+        imageUrl: 'logi.gif',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("iput-bg.jpg")',
